@@ -17,13 +17,13 @@ The primary wish will be the first choice
 The secondary wish will be the second choice
 You can presume the favorite color is the first color in the wish list
 Gift complexity can be mapped from the toy difficulty to make. Assume the following:
-> Simple Gift = 1;
-> Moderate Gift = 2;
+> Simple Gift = 1 <br />
+> Moderate Gift = 2 <br />
 > Complex Gift >= 3
 
 We assign the workshop based on the primary wish's toy category. Assume the following:
-> outdoor = Outside Workshop;
-> educational = Learning Workshop;
+> outdoor = Outside Workshop <br />
+> educational = Learning Workshop <br />
 > all other types = General Workshop
 
 Order the list by name in ascending order.
